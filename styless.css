@@ -11,10 +11,17 @@
 .contenedorM{
     width: 100%;
     margin: 50px auto;
+   
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
+}
+p{
+    margin-left: 10px;
+}
+pre{
+    margin: auto;
 }
 html{
     scroll-behavior: smooth;
