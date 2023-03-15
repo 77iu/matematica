@@ -17,6 +17,9 @@
     flex-direction: column;
     justify-content: center;
 }
+img{
+    transform: scale(0.7);  
+}
 p{
     margin-left: 10px;
 }
